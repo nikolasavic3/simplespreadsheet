@@ -2,7 +2,7 @@
 
 A web-based spreadsheet application that converts natural language into spreadsheet formulas using AI.
 
-🔗 [Live Demo](https://simplespreadsheet.vercel.app)
+🔗 [Live Demo](https://nikolasavic3.github.io/simplespreadsheet/)
 
 ## Description
 
