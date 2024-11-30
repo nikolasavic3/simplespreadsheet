@@ -2,6 +2,8 @@
 
 A web-based spreadsheet application that converts natural language into spreadsheet formulas using AI.
 
+🔗 [Live Demo](https://simplespreadsheet.vercel.app)
+
 ## Description
 
 This project is a modern take on spreadsheet applications, combining traditional spreadsheet functionality with AI capabilities. Users can input natural language commands which are automatically converted into executable spreadsheet formulas in real-time.
